@@ -1,6 +1,6 @@
 # kiyokhai-beats-player
 
-Welcome to KIYOKHAI BEATS GALLERY, a video player showcasing some of my favorite beats as a music producer. The gallery is designed with a user-friendly UI/UX, providing an enjoyable experience for users to explore the beats on any device.
+Welcome to **KIYOKHAI BEATS GALLERY**, a video player showcasing some of my favorite beats as a music producer. The gallery is designed with a user-friendly UI/UX, providing an enjoyable experience for users to explore the beats on any device.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Responsive Design: The gallery is thoughtfully designed to be fully responsive, 
 To explore the KIYOKHAI BEATS GALLERY, simply open oneof the links below in your web browser. No installation is required, and you can instantly enjoy the collection of beats.
 
 LINK 1 : https://kylekhai.github.io/kiyokhai-beats-player/
-LINK 2: https://app.netlify.com/sites/kylekhai-beats-gallery/overview
+LINK 2: https://kylekhai-beats-gallery.netlify.app/
 
 ## Credits
 
