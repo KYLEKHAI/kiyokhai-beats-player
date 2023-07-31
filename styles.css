@@ -97,3 +97,16 @@ body {
   color: #333;
   font-size: 18px;
 }
+
+@media (max-width: 991px) {
+  .container {
+    grid-template-columns: 1.5fr 1fr;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+}
