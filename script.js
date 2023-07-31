@@ -73,7 +73,14 @@ function addGifBackground(gifMap) {
 const videoToGifMap = {
   "img-vids/vid-1.mp4": "img-vids/gif-1.gif",
   "img-vids/vid-2.mp4": "img-vids/gif-2.gif",
+  "img-vids/vid-3.mp4": "img-vids/gif-3.gif",
+  "img-vids/vid-4.mp4": "img-vids/gif-4.gif",
+  "img-vids/vid-5.mp4": "img-vids/gif-5.gif",
+  "img-vids/vid-6.mp4": "img-vids/gif-6.gif",
+  "img-vids/vid-7.mp4": "img-vids/gif-7.gif",
   "img-vids/vid-8.mp4": "img-vids/gif-8.gif",
+  "img-vids/vid-9.mp4": "img-vids/gif-9.gif",
+  "img-vids/vid-10.mp4": "img-vids/gif-10.gif",
 };
 
 // Call the function with the video-to-GIF mapping

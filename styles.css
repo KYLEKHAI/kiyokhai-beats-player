@@ -14,11 +14,12 @@ body {
   font-size: 40px;
   text-align: center;
   padding: 10px;
+  margin: 25px;
 }
 
 .container {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 15px;
   align-items: flex-start;
   padding: 5px 5%;
@@ -114,4 +115,5 @@ body {
 body.show-gif-background {
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 0.78;
 }
