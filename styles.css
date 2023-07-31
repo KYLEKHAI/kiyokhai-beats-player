@@ -110,3 +110,8 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+body.show-gif-background {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
