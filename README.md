@@ -34,7 +34,9 @@ Responsive Design: The gallery is thoughtfully designed to be fully responsive, 
 
 ## Installation
 
-To explore the KIYOKHAI BEATS GALLERY, simply open the index.html file in your web browser. No installation is required, and you can instantly enjoy the collection of beats.
+To explore the KIYOKHAI BEATS GALLERY, simply open the link below in your web browser. No installation is required, and you can instantly enjoy the collection of beats.
+
+LINK: https://kylekhai.github.io/kiyokhai-beats-player/
 
 ## Credits
 
