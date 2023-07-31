@@ -43,6 +43,8 @@ LINK 2: https://kylekhai-beats-gallery.netlify.app/
 
 Background GIFs: The captivating background GIFs used in this project (gif-1 through gif-10) are sourced from giphy.com
 YouTube Icon: The YouTube icon in the footer is obtained from freepnglogos.com, providing an attractive visual link to my YouTube channel.
+Music Videos: All made through FL Studio and deployed through Youtube or via TunesToTube service. 
+**DISCLAIMER: I DO NOT OWN ANY OF THE IMAGES/GIFS!**
 
 ## License
 
