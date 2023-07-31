@@ -7,14 +7,20 @@
 }
 
 body {
-  background-color: antiquewhite;
+  background-image: linear-gradient(to right, #d3cce3, #e9e4f0);
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
 }
 
 .heading {
   font-size: 40px;
   text-align: center;
   padding: 10px;
-  margin: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: #e9e4f0;
 }
 
 .container {
@@ -115,5 +121,13 @@ body {
 body.show-gif-background {
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
   opacity: 0.78;
 }
+
+/*background-image: url("img-vids/kiyokhai-bg.png");
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
